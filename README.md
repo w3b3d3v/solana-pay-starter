@@ -1,15 +1,16 @@
-# buildspace Store on Solana Pay Project
+# Projeto de loja por meio da Solana Pay 
 
-### **Welcome 👋**
+### **Bem vindo 👋**
 
-To get started with this project, clone this repo and follow these commands:
+Para começar com este projeto, clone este repositório e siga estes comandos:
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run dev` to start the project
-3. Start coding!
+1. Execute `npm install` na raiz do seu diretório
+2. Execute `npm run dev` para iniciar o projeto
+3. Comece a codificar!
 
-### What is the `.vscode` Folder?
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+### O que é a pasta .vscode?
+Se você usa o VSCode para criar seu aplicativo, incluímos uma lista de extensões sugeridas que ajudarão você a criar este projeto! Depois de abrir este projeto no VSCode, você verá um pop-up perguntando se deseja baixar as extensões recomendadas 😊.
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+### Perguntas?
+Se tiver algumas perguntas, acesse seu [painel do Bootcamp da WEB3DEV](https://bootcamp.web3dev.com.br/courses) e vincule sua conta do Discord para ter acesso a canais úteis e a seu instrutor!
+
