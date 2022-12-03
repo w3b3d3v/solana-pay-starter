@@ -5,6 +5,11 @@
   overflow: hidden;
 }
 
+.gif-image {
+  max-width: 300px;
+  max-height: 300px;
+ }
+ 
 .container {
   height: 100%;
   display: flex;
@@ -199,5 +204,24 @@ button:disabled {
   }
   100% {
     background-position: 0% 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .gif-image {
+    width: 150px;
+    height: 150px;
+  }
+
+  .header {
+    font-size: 1rem;
+  }
+
+  .sub-text {
+    font-size:1rem;
+  }
+
+  .footer-container {
+    font-size: 1rem;
   }
 }

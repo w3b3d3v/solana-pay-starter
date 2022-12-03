@@ -18,7 +18,7 @@ const App = () => {
         </header>
 
         <main>
-          <img src="https://i.imgur.com/2xa6feD.png" alt="emoji" />
+          <img className='gif-image' src="https://media.tenor.com/1mJ-tJSzvwsAAAAd/solana-sol.gif" alt="emoji" />
         </main>
 
         <div className="footer-container">
