@@ -2,7 +2,7 @@ import React from "react";
 import HeadComponent from '../components/Head';
 
 // Constants
-const TWITTER_HANDLE = "_web3dev";
+const TWITTER_HANDLE = "web3dev_";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
