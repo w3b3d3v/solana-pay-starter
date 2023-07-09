@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Obtenha um pacote de emojis irados por apenas $0.09! Inclui 3 emojis legais: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Logo",
+    "price": "0.01",
+    "image_url": "",
+    "description": "Produto muito legal"
+  }
+]
