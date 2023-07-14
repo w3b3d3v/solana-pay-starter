@@ -20,6 +20,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "^18"
+  },
   "dependencies": {
     "@solana/pay": "^0.2.0",
     "@solana/wallet-adapter-base": "^0.9.4",
